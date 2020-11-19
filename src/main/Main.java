@@ -26,7 +26,7 @@ public class Main {
         //e: ném về ngoại lệ IllegalArgumentException nếu gthua -5
         System.out.println("-5!: " + MathUtility.getFactorial(-5));
         
-        
+        System.out.println("CI for today.");
     }
     
 }
